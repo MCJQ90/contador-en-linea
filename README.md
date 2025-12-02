@@ -14,10 +14,10 @@ Descripción:
 Jaramillo Lizaldez Asesores Contables es una firma dedicada a brindar servicios de gestión contable, declaraciones tributarias, asesoría financiera y obligaciones laborales.
 Dentro del proceso de transformación digital, surge la necesidad de mejorar la experiencia del cliente mediante una plataforma que permita:
 
-✔ Gestión digital de solicitudes
-✔ Seguimiento del estado de cada trámite
-✔ Asignación automática a asistentes y contadores
-✔ Comunicación clara con el cliente
+Gestión digital de solicitudes
+Seguimiento del estado de cada trámite
+Asignación automática a asistentes y contadores
+Comunicación clara con el cliente
 
 La propuesta planteada se enfoca en desarrollar una plataforma web para declaración de impuestos a la renta, permitiendo a clientes, asistentes y contadores interactuar dentro de un flujo automatizado.
 
@@ -111,18 +111,18 @@ Debes agregar las mismas variables en:
 
 Vercel → Settings → Environment Variables
 
-✔ GOOGLE_CLIENT_ID
-✔ GOOGLE_CLIENT_SECRET
-✔ NEXTAUTH_URL
-✔ NEXTAUTH_SECRET
+GOOGLE_CLIENT_ID
+GOOGLE_CLIENT_SECRET
+NEXTAUTH_URL
+NEXTAUTH_SECRET
 
 Sin estas variables, la autenticación real con Google no funciona.
 
 ## Funcionalidades del proyecto
-✔ Página de inicio con branding
-✔ Login con correo y contraseña
-✔ Login simulado con Google
-✔ Dashboard del cliente
+Página de inicio con branding
+Login con correo y contraseña
+Login simulado con Google
+Dashboard del cliente
 
 Nueva solicitud
 
@@ -136,7 +136,7 @@ Progreso visual
 
 Roles (cliente, asistente, contador)
 
-✔ Flujo de solicitud para Declaración de Impuesto a la Renta
+# Flujo de solicitud para Declaración de Impuesto a la Renta
 
 Selección del año fiscal
 
@@ -146,7 +146,7 @@ Asignación simulada de Asistente y Contador
 
 Actualización de estado
 
-✔ Listado de solicitudes
+# Listado de solicitudes
 
 Estado: Pendiente, En proceso, Finalizado
 
